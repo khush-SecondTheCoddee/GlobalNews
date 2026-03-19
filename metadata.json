@@ -1,0 +1,5 @@
+{
+  "name": "Global Pulse: Daily International News",
+  "description": "A comprehensive international news application featuring AI-powered summaries, text-to-speech, image analysis, and interactive news mapping.",
+  "requestFramePermissions": ["geolocation"]
+}
